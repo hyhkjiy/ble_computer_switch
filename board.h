@@ -1,0 +1,8 @@
+#ifndef ECO_BOARD_H
+#define ECO_BOARD_H
+
+#define BOADER_BUTTON_PIN 10
+// #define BOADER_CONTROL_PIN 11
+#define BOADER_CONTROL_PIN 12
+
+#endif
